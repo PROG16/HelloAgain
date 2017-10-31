@@ -2,11 +2,11 @@
 
 namespace HelloAgain.Students
 {
-    public class AndreasBjörnlund
+    class KärbelIlias
     {
         public static void Speak()
         {
-            Console.WriteLine("Andreas");
+            Console.WriteLine("Andre tror att han är cool!");
         }
     }
 }
