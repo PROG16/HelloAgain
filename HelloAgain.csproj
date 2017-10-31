@@ -42,12 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Khalid.cs" />
     <Compile Include="AndreasBjörnlund.cs" />
     <Compile Include="CorneliaKarlslund.cs" />
     <Compile Include="Jesper.cs" />
     <Compile Include="ErikJonson.cs" />
     <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="FredrikHaglund.cs" />
+    <Compile Include="Calle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
