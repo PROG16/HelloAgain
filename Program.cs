@@ -11,7 +11,11 @@ namespace HelloAgain
         static void Main(string[] args)
         {
             FredrikHaglund.Speak();
-            Console.WriteLine(MarcusHultkrantz.Speak());
+            while (true)
+            {
+                Console.WriteLine(MarcusHultkrantz.Speak());
+            }
+            //YOU SHALL NOT WRITE!!!!!!!!!!!!
             Console.WriteLine(Khalid.Speak());
 
             AndreasBjörnlund.Speak();
