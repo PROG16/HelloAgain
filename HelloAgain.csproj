@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Isa.cs" />
     <Compile Include="Khalid.cs" />
     <Compile Include="AndreasBjörnlund.cs" />
     <Compile Include="CorneliaKarlslund.cs" />

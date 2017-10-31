@@ -14,14 +14,13 @@ namespace HelloAgain
             Console.WriteLine(MarcusHultkrantz.Speak());
             Console.WriteLine(Khalid.Speak());
             AndreasBjörnlund.Speak();
-
             ErikJonson.Speak();
             TanjaSvard.Speak();
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
-            
             Patrik.Speak();
+            Console.WriteLine(Isa.Speak());
             MasterSpeaker();
             KärbelIlias.Speak();
             Console.ReadLine();
