@@ -26,6 +26,9 @@ namespace HelloAgain
             KärbelIlias.Speak();
             CorneliaKarlslund.Speak();
             AndreHolmlund.Speak();
+
+            var dannysSingleton = DannyBoy.Instance;
+            dannysSingleton.MakeTheSound();
             Console.ReadLine();
             
         }
