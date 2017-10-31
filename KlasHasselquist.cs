@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace HelloAgain
 {
-    public class CorneliaKarlslund
+    class KlasHasselquist
     {
         public static void Speak()
         {
-            for (int i = 0; i < 100; i++)
-            {
-                Console.WriteLine("Hello? ");
-            }
+            Console.WriteLine("Klas says Hello!");
         }
     }
 }
