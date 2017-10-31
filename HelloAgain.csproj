@@ -46,6 +46,7 @@
     <Compile Include="CorneliaKarlslund.cs" />
     <Compile Include="ErikJonson.cs" />
     <Compile Include="MarcusHultkrantz.cs" />
+    <Compile Include="FredrikHaglund.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
