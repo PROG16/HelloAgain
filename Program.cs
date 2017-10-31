@@ -11,15 +11,11 @@ namespace HelloAgain
         static void Main(string[] args)
         {
             FredrikHaglund.Speak();
-            while (true)
-            {
-                Console.WriteLine(MarcusHultkrantz.Speak());
-            }
-            //YOU SHALL NOT WRITE!!!!!!!!!!!!
+            Console.WriteLine(MarcusHultkrantz.Speak());
             Console.WriteLine(Khalid.Speak());
 
             AndreasBjörnlund.Speak();
-
+            Jesper.Speak();
             ErikJonson.Speak();
             MirAlbertioni.MirAlb();
             TanjaSvard.Speak();
@@ -27,8 +23,6 @@ namespace HelloAgain
             MattiasClass.SpeakTo();
             MasterSpeaker();
             KlasHasselquist.Speak();
-            Console.ReadLine();
-            MasterSpeaker();
             MariaKällström.Speak();
            
             Patrik.Speak();
@@ -40,9 +34,25 @@ namespace HelloAgain
         }
 
         static void MasterSpeaker()
-        {
+        {            
             Calle.Speak();
             PerlyGustafsson.Speak();
+        }
+
+        internal class TanjaSvard
+        {
+            public static void Speak()
+            {
+                Console.WriteLine("Tanja was here.");
+            }
+        }
+
+        internal class Patrik
+        {
+            public static void Speak()
+            {
+                Console.WriteLine("Tanja was here.");
+            }
         }
     }
 }

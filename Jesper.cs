@@ -8,9 +8,9 @@ namespace HelloAgain
 {
     public class Jesper
     {
-        public string Speak()
+        public static void Speak()
         {
-            return "Jesper was here";
+            Console.WriteLine("Jesper was here.");
         }
     }
 }
