@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HelloAgain
+﻿namespace HelloAgain
 {
     class Program
     {
@@ -15,13 +9,17 @@ namespace HelloAgain
             Console.WriteLine(Khalid.Speak());
             AndreasBjörnlund.Speak();
             ErikJonson.Speak();
+            MattiasClass.SpeakTo();
             MasterSpeaker();
             Console.ReadLine();
+            Patrik.Speak();
+            MasterSpeaker();
         }
 
         static void MasterSpeaker()
         {
             Calle.Speak();
+            PerlyGustafsson.Speak();
         }
     }
 }
