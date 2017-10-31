@@ -1,4 +1,6 @@
-﻿namespace HelloAgain
+﻿using System;
+
+namespace HelloAgain
 {
     class Program
     {
@@ -16,10 +18,11 @@
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
-            Console.ReadLine();
+           
             Patrik.Speak();
             MasterSpeaker();
             KärbelIlias.Speak();
+            AndreHolmlund.Speak();
         }
 
         static void MasterSpeaker()
