@@ -10,7 +10,12 @@ namespace HelloAgain
     {
         public static string Speak()
         {
-            return "Marcus Hultkrantz talar!!!!";
+            var speak = "";
+            for (int i = 0; i < 100; i++)
+            {
+                speak += "Marcus Hultkrantz talar!!!!";
+            }
+            return speak;
         }
     }
 }
