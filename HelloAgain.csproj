@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FilipEk.cs" />
     <Compile Include="KlasHasselquist.cs" />
     <Compile Include="AndreHolmlund.cs" />
     <Compile Include="Isa.cs" />
@@ -54,7 +55,9 @@
     <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="Calle.cs" />
+    <Compile Include="MariaKällström.cs" />
     <Compile Include="MattiasClass.cs" />
+    <Compile Include="MirAlbertioni.cs" />
     <Compile Include="Patrik.cs" />
     <Compile Include="PerlyGustafsson.cs" />
     <Compile Include="Program.cs" />
