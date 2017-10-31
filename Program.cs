@@ -14,16 +14,20 @@ namespace HelloAgain
             Console.WriteLine(Khalid.Speak());
             AndreasBjörnlund.Speak();
             ErikJonson.Speak();
+            MirAlbertioni.MirAlb();
             TanjaSvard.Speak();
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
             KlasHasselquist.Speak();
             Console.ReadLine();
+            MasterSpeaker();
+            MariaKällström.Speak();
+           
             Patrik.Speak();
-            Console.WriteLine(Isa.Speak());
             MasterSpeaker();
             KärbelIlias.Speak();
+            Console.ReadLine();
         }
 
         static void MasterSpeaker()
