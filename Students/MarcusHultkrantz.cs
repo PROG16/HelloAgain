@@ -11,5 +11,10 @@
             }
             return speak;
         }
+
+        public static string Mute()
+        {
+            return Console.ReadLine();
+        }
     }
 }
