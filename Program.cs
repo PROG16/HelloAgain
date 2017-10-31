@@ -16,9 +16,14 @@ namespace HelloAgain
             AndreasBjörnlund.Speak();
 
             ErikJonson.Speak();
-
+            TanjaSvard.Speak();
+            Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
+            
+            Patrik.Speak();
+            MasterSpeaker();
+            KärbelIlias.Speak();
             Console.ReadLine();
         }
 
