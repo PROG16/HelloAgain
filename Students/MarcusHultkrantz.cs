@@ -1,4 +1,6 @@
-﻿namespace HelloAgain.Students
+﻿using System;
+
+namespace HelloAgain.Students
 {
     public static class MarcusHultkrantz
     {
