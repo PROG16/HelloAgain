@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace HelloAgain
 {
-    class CorneliaKarlslund
+    public class CorneliaKarlslund
     {
-        public CorneliaKarlslund()
+        public static void Speak()
         {
             for (int i = 0; i < 100; i++)
             {
