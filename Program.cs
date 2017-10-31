@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace HelloAgain
 {
@@ -7,12 +11,11 @@ namespace HelloAgain
         static void Main(string[] args)
         {
             FredrikHaglund.Speak();
-            while (true)
-            {
-                Console.WriteLine(MarcusHultkrantz.Speak());
-            }
+            Console.WriteLine(MarcusHultkrantz.Speak());
             Console.WriteLine(Khalid.Speak());
+
             AndreasBjörnlund.Speak();
+
             ErikJonson.Speak();
             MirAlbertioni.MirAlb();
             TanjaSvard.Speak();
