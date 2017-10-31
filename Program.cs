@@ -10,6 +10,8 @@
             Console.WriteLine(Khalid.Speak());
             AndreasBjörnlund.Speak();
             ErikJonson.Speak();
+            TanjaSvard.Speak();
+            Torbjorn.Speak();
             MattiasClass.SpeakTo();
             Console.ReadLine();
             Patrik.Speak();
