@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AndreasBjörnlund.cs" />
+    <Compile Include="CorneliaKarlslund.cs" />
     <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
