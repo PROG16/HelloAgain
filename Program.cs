@@ -12,6 +12,7 @@ namespace HelloAgain
         {
             Console.WriteLine(MarcusHultkrantz.Speak());
             AndreasBjörnlund.Speak();
+            TanjaSvard.Speak();
             Console.ReadLine();
         }
     }
