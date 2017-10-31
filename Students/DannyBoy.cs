@@ -24,7 +24,7 @@ namespace HelloAgain.Students
 
         public void MakeTheSound()
         {
-            for (int i = 0; i < 9; i++)
+            for (int i = 0; i < 91; i++)
             {
                 Console.WriteLine("Woop woop, thats the sound of the police ♪♫♬");
             }            
