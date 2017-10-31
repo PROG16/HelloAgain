@@ -21,10 +21,14 @@ namespace HelloAgain
             TanjaSvard.Speak();
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
-            MariaKällström.Speak();           
+            MasterSpeaker();
+            KlasHasselquist.Speak();
+            MariaKällström.Speak();
+           
             Patrik.Speak();
             MasterSpeaker();
             KärbelIlias.Speak();
+            CorneliaKarlslund.Speak();
             Console.ReadLine();
         }
 
