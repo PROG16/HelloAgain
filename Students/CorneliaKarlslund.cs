@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloAgain
+namespace HelloAgain.Students
 {
-    public class AndreasBjörnlund
+    class CorneliaKarlslund
     {
-        public static void Speak()
+        public CorneliaKarlslund()
         {
-            Console.WriteLine("Andreas");
+            Console.WriteLine("Hello?");
         }
     }
 }
