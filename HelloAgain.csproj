@@ -42,11 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="Khalid.cs" />
-=======
     <Compile Include="AndreasBjörnlund.cs" />
->>>>>>> a11dfecc04b02dff56f9d68586c07bd4bc586886
+    <Compile Include="CorneliaKarlslund.cs" />
+    <Compile Include="Jesper.cs" />
+    <Compile Include="ErikJonson.cs" />
     <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="Calle.cs" />
