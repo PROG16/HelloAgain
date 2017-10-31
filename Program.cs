@@ -16,15 +16,17 @@ namespace HelloAgain
             AndreasBjörnlund.Speak();
 
             ErikJonson.Speak();
+            MirAlbertioni.MirAlb();
             TanjaSvard.Speak();
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
-            Console.ReadLine();
+            MariaKällström.Speak();
+           
             Patrik.Speak();
-            Console.WriteLine(Isa.Speak());
             MasterSpeaker();
             KärbelIlias.Speak();
+            Console.ReadLine();
         }
 
         static void MasterSpeaker()
