@@ -21,6 +21,7 @@ namespace HelloAgain
 =======
             ErikJonson.Speak();
 >>>>>>> 6e401ca1c452c41a46587757d6b7514127c2637d
+            FilipEk.Speak();
             Console.ReadLine();
         }
     }
