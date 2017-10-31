@@ -7,13 +7,14 @@
             FredrikHaglund.Speak();
             Console.WriteLine(MarcusHultkrantz.Speak());
             Console.WriteLine(Khalid.Speak());
-
+=======
             AndreasBjörnlund.Speak();
-
+<<<<<<< HEAD
+>>>>>>> a11dfecc04b02dff56f9d68586c07bd4bc586886
+=======
             ErikJonson.Speak();
-
+>>>>>>> 6e401ca1c452c41a46587757d6b7514127c2637d
             MattiasClass.SpeakTo();
-            FilipEk.Speak();
             Console.ReadLine();
             Patrik.Speak();
             MasterSpeaker();
