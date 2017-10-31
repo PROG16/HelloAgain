@@ -57,7 +57,7 @@ namespace HelloAgain
         {
             public static void MirAlb()
             {
-                Console.WriteLine("Tanja was here.");
+                Console.WriteLine("Mir was here.");
             }
         }
 
