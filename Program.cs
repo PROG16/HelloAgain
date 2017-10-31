@@ -10,6 +10,11 @@ namespace HelloAgain
     {
         static void Main(string[] args)
         {
+            FredrikHaglund.Speak();
+            Console.WriteLine(MarcusHultkrantz.Speak());
+            AndreasBjörnlund.Speak();
+            ErikJonson.Speak();
+            Console.ReadLine();
             MasterSpeaker();
         }
 
