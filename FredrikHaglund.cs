@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace HelloAgain
 {
-    class Program
+    class FredrikHaglund
     {
-        static void Main(string[] args)
+        public static void Speak()
         {
-            FredrikHaglund.Speak();
+            Console.WriteLine("Fredrik says Hello!");
         }
     }
 }
