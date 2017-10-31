@@ -1,19 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HelloAgain.Students;
+using System;
 
 namespace HelloAgain
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             FredrikHaglund.Speak();
+            //TODO Mute Marcus
             Console.WriteLine(MarcusHultkrantz.Speak());
             Console.WriteLine(Khalid.Speak());
-
             AndreasBjörnlund.Speak();
             Jesper.Speak();
             ErikJonson.Speak();
@@ -23,14 +20,13 @@ namespace HelloAgain
             MattiasClass.SpeakTo();
             MasterSpeaker();
             KlasHasselquist.Speak();
-            MariaKällström.Speak();
-           
+            MariaKällström.Speak();           
             Patrik.Speak();
-            MasterSpeaker();
             KärbelIlias.Speak();
             CorneliaKarlslund.Speak();
-            Console.ReadLine();
             AndreHolmlund.Speak();
+            Console.ReadLine();
+            
         }
 
         static void MasterSpeaker()
@@ -48,6 +44,22 @@ namespace HelloAgain
         }
 
         internal class Patrik
+        {
+            public static void Speak()
+            {
+                Console.WriteLine("Tanja was here.");
+            }
+        }
+
+        internal class MirAlbertioni
+        {
+            public static void MirAlb()
+            {
+                Console.WriteLine("Tanja was here.");
+            }
+        }
+
+        internal class MariaKällström
         {
             public static void Speak()
             {
