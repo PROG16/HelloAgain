@@ -6,7 +6,7 @@ namespace HelloAgain.Students
     {
         public static void Speak()
         {
-            Console.WriteLine("Carl-Fredrik");
+            Console.WriteLine("Carl-Fredrik!");
         }
     }
 }
