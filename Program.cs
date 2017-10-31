@@ -27,6 +27,7 @@ namespace HelloAgain
             KärbelIlias.Speak();
             CorneliaKarlslund.Speak();
             Console.ReadLine();
+            AndreHolmlund.Speak();
         }
 
         static void MasterSpeaker()

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace HelloAgain
 {
-    public static class FilipEk
+    public class AndreHolmlund
     {
         public static void Speak()
         {
-           Console.WriteLine("Filip is here");
+            Console.WriteLine("Andre");
         }
+
     }
 }
