@@ -51,6 +51,7 @@
     <Compile Include="KärbelIlias.cs" />
     <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="FredrikHaglund.cs" />
+    <Compile Include="MirAlbertioni.cs" />
     <Compile Include="Calle.cs" />
     <Compile Include="MattiasClass.cs" />
     <Compile Include="PerlyGustafsson.cs" />
