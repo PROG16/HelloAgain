@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AndreasBjörnlund.cs" />
+    <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
