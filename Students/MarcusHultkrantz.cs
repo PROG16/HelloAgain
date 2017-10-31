@@ -17,5 +17,10 @@ namespace HelloAgain.Students
             }
             return speak;
         }
+
+        public static string Mute()
+        {
+            return Console.ReadLine();
+        }
     }
 }

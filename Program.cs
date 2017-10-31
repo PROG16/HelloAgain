@@ -10,6 +10,7 @@ namespace HelloAgain
             FredrikHaglund.Speak();
             //TODO Mute Marcus
             Console.WriteLine(MarcusHultkrantz.Speak());
+            MarcusHultkrantz.Mute();
             Console.WriteLine(Khalid.Speak());
             AndreasBjörnlund.Speak();
             Jesper.Speak();
