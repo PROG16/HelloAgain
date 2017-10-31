@@ -20,8 +20,8 @@ namespace HelloAgain
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
+            MariaKällström.Speak();           
             Patrik.Speak();
-            Console.WriteLine(Isa.Speak());
             MasterSpeaker();
             KärbelIlias.Speak();
             Console.ReadLine();
