@@ -6,16 +6,11 @@ using System.Threading.Tasks;
 
 namespace HelloAgain
 {
-    public static class MarcusHultkrantz
+    class Khalid
     {
         public static string Speak()
         {
-            var speak = "";
-            for (int i = 0; i < 5; i++)
-            {
-                speak += "All hail MarcKus!!!!";
-            }
-            return speak;
+            return "There are 10 types of people in this world, those who understand binary and those who dont";
         }
     }
 }
