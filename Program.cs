@@ -15,7 +15,9 @@
 =======
             ErikJonson.Speak();
 >>>>>>> 6e401ca1c452c41a46587757d6b7514127c2637d
+            MattiasClass.SpeakTo();
             Console.ReadLine();
+            Patrik.Speak();
             MasterSpeaker();
         }
 
