@@ -50,6 +50,8 @@
     <Compile Include="MarcusHultkrantz.cs" />
     <Compile Include="FredrikHaglund.cs" />
     <Compile Include="Calle.cs" />
+    <Compile Include="MattiasClass.cs" />
+    <Compile Include="PerlyGustafsson.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

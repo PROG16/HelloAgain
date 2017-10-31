@@ -16,12 +16,18 @@ namespace HelloAgain
             AndreasBjörnlund.Speak();
             ErikJonson.Speak();            
             MasterSpeaker();
+
+            ErikJonson.Speak();
+
+            MattiasClass.SpeakTo();
+            MasterSpeaker();
             Console.ReadLine();
         }
 
         static void MasterSpeaker()
         {
             Calle.Speak();
+            PerlyGustafsson.Speak();
         }
     }
 }
