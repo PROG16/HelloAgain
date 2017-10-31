@@ -8,7 +8,7 @@ namespace HelloAgain.Students
         {
             for (int i = 0; i < 15; i++)
             {
-                Console.WriteLine("Hello?  ");
+                Console.WriteLine("Hello?");
             }
         }
     }
