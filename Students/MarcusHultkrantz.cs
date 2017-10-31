@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HelloAgain
+﻿namespace HelloAgain.Students
 {
     public static class MarcusHultkrantz
     {
@@ -16,6 +10,11 @@ namespace HelloAgain
                 speak += "All hail MarcKussss!!!!";
             }
             return speak;
+        }
+
+        public static string Mute()
+        {
+            return Console.ReadLine();
         }
     }
 }
