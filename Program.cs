@@ -7,21 +7,23 @@ namespace HelloAgain
         static void Main(string[] args)
         {
             FredrikHaglund.Speak();
-            Console.WriteLine(MarcusHultkrantz.Speak());
-
+            while (true)
+            {
+                Console.WriteLine(MarcusHultkrantz.Speak());
+            }
             Console.WriteLine(Khalid.Speak());
-
             AndreasBjörnlund.Speak();
-
             ErikJonson.Speak();
             TanjaSvard.Speak();
-
+            Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
             KlasHasselquist.Speak();
             Console.ReadLine();
             Patrik.Speak();
+            Console.WriteLine(Isa.Speak());
             MasterSpeaker();
+            KärbelIlias.Speak();
         }
 
         static void MasterSpeaker()
