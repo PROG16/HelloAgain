@@ -45,6 +45,7 @@
     <Compile Include="Students\AndreasBjörnlund.cs" />
     <Compile Include="Students\CorneliaKarlslund.cs" />
     <Compile Include="Students\DannyBoy.cs" />
+    <Compile Include="Students\JohannesSmidelöv.cs" />
     <Compile Include="Students\MarcusHultkrantz.cs" />
     <Compile Include="Students\FredrikHaglund.cs" />
     <Compile Include="Students\FilipEk.cs" />
