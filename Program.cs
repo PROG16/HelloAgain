@@ -14,6 +14,7 @@ namespace HelloAgain
             Console.WriteLine(Khalid.Speak());
             AndreasBjörnlund.Speak();
             ErikJonson.Speak();
+            MirAlbertioni.MirAlb();
             TanjaSvard.Speak();
             Torbjorn.Speak();
             MattiasClass.SpeakTo();
