@@ -10,7 +10,7 @@ namespace HelloAgain
     {
         public static void Speak()
         {
-            Console.WriteLine("Andre tror att han är cool!");
+            Console.WriteLine("Kärbel tror att han är cool!");
         }
     }
 }
