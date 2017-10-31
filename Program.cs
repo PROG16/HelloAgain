@@ -11,6 +11,8 @@ namespace HelloAgain
         static void Main(string[] args)
         {
             Console.WriteLine(MarcusHultkrantz.Speak());
+            Console.WriteLine(Khalid.Speak());
+            Console.ReadLine();
         }
     }
 }
