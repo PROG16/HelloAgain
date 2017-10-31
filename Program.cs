@@ -19,6 +19,7 @@
             Console.ReadLine();
             Patrik.Speak();
             MasterSpeaker();
+            KärbelIlias.Speak();
         }
 
         static void MasterSpeaker()
