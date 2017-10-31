@@ -11,9 +11,9 @@ namespace HelloAgain.Students
         public static string Speak()
         {
             var speak = "";
-            for (int i = 0; i < 999; i++)
+            for (int i = 0; i < 5; i++)
             {
-                speak += "All hail Marcus!!!!";
+                speak += "All hail MarcKussss!!!!";
             }
             return speak;
         }
