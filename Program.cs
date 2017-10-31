@@ -17,7 +17,7 @@ namespace HelloAgain
 
             ErikJonson.Speak();
             TanjaSvard.Speak();
-
+            Torbjorn.Speak();
             MattiasClass.SpeakTo();
             MasterSpeaker();
             Console.ReadLine();
